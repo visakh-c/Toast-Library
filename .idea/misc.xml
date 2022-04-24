@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Meridian/StudioProjects/Toast-Library/ToastyToast/src/main/res/drawable/ic_baseline_check_24.xml" value="0.162" />
+        <entry key="..\:/Users/Meridian/StudioProjects/Toast-Library/ToastyToast/src/main/res/layout/layout_toasty.xml" value="0.25" />
+        <entry key="..\:/Users/Meridian/StudioProjects/Toast-Library/ToastyToast/src/main/res/layout/test.xml" value="0.25" />
+        <entry key="..\:/Users/Meridian/StudioProjects/Toast-Library/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Meridian/StudioProjects/Toast-Library/app/src/main/res/layout/dsc.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Meridian/StudioProjects/Toast-Library/app/src/main/res/layout/layout_toastytttttest.xml" value="0.25" />
+        <entry key="..\:/Users/Meridian/StudioProjects/Toast-Library/app/src/main/res/layout/xs.xml" value="0.25" />
         <entry key="..\:/Users/user/AndroidStudioProjects/SampleToast/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
         <entry key="ToastyToast/src/main/res/drawable/shape.xml" value="0.2305" />
         <entry key="ToastyToast/src/main/res/layout/layout_toasty.xml" value="0.3145833333333333" />

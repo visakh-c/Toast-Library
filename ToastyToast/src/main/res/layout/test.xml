@@ -8,17 +8,10 @@
     android:background="@drawable/shape"
     android:fitsSystemWindows="false"
     android:gravity="center"
-    android:orientation="horizontal"
+    android:orientation="vertical"
     tools:ignore="UseCompoundDrawables">
 
-    <ImageView
-        android:id="@+id/iv_icon"
-        android:layout_width="24dp"
-        android:layout_height="24dp"
-        android:layout_marginStart="20dp"
-        android:contentDescription="@string/toast_message"
-        android:visibility="visible"
-        app:srcCompat="@drawable/ic_baseline_check_24" />
+
 
     <TextView
         android:id="@+id/tv_message"
@@ -29,5 +22,12 @@
         android:paddingVertical="10dp"
         android:text="@string/toast_message"
         android:textColor="@color/white" />
-
+    <ImageView
+        android:id="@+id/iv_icon"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_gravity="center"
+        android:contentDescription="@string/toast_message"
+        android:visibility="visible"
+        app:srcCompat="@drawable/ic_baseline_check_24" />
 </LinearLayout>
